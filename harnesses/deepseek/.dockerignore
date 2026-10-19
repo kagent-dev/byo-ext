@@ -1,0 +1,9 @@
+**/.git
+**/.env
+**/.env.*
+**/node_modules
+bin
+*.test
+*.out
+**/*.pem
+**/*.key
