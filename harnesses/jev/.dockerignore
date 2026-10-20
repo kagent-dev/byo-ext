@@ -1,0 +1,6 @@
+.git
+.env
+.env.*
+!.env.example
+# The binary `go build` writes here.
+/jev
